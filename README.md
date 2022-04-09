@@ -30,6 +30,7 @@
 * 2022/02/27 Clean Architecture
 * 2022/03/06 達人に学ぶDB設計徹底指南書
 * 2022/04.   れい先生と学ぶTypeScript入門
+* 2022/04/09 Everyday Rails - RSpecによるRailsテスト入門
 
 # Udemy
 * 2019/12.   はじめてのLinuxサーバー構築運用入門 - Linuxコマンドラインを基礎から学び、自分のウェブサーバまで構築できる
